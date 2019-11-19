@@ -1,0 +1,12 @@
+{
+  "name": "misgeret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kfiroo/misgeret.git",
+  "author": "kfiroo <kfirg@wix.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15"
+  }
+}
